@@ -1,4 +1,4 @@
-# Multicalss classification with class imbalance
+# Multiclass classification with class imbalance
 This group university project was focused on researching convolutional neural network training with class imbalance. Similar solutions were researched and it has been found that VGG16 and ResNet50 achieve the highest results on multiclass problems.
 
 The dataset chosen for the project was Animals-10 dataset that may be accessed on [Kaggle](https://www.kaggle.com/datasets/alessiocorrado99/animals10/data). The dataset has been collected using Google Images and checked by a human, however, it does contain intentional errors to better simulate a real working environment for the trained model. It contains 10 classes
